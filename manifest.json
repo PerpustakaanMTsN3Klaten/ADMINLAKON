@@ -1,0 +1,16 @@
+{
+  "name": "LAKON MTsN 3 Klaten",
+  "short_name": "LAKON",
+  "start_url": "/SEKAD/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/PerpustakaanMTsN3Klaten/koleksi_digital/main/LogoApk.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
